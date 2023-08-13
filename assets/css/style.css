@@ -1,0 +1,205 @@
+@import url('https://.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1320px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin: auto;
+    margin-right: auto;
+
+}
+
+.more {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 42px;
+    font-weight: 700;
+    text-align: center;
+    color: #1E0E62;
+}
+
+.all {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    color: #1E0E62;
+    max-width: 207px;
+
+}
+
+.plan {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #1E0E62;
+}
+
+.s {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    color: #1E0E62;
+}
+
+/* .check {
+    width: 8px;
+    height: 5px;
+    border: 2px;
+    background: #1E0E62;
+} */
+
+
+.num {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 58px;
+    font-weight: 700;
+    text-align: center;
+    color: #1E0E62;
+}
+
+.price {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: right;
+    color: #15143966;
+}
+
+.text {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    color: #1E0E62;
+}
+
+.btn {
+    width: 230px !important;
+    height: 50px !important;
+    border-color: #EBEAED !important;
+    border-radius: 100px !important;
+}
+
+.py-39 {
+    padding-top: 39px;
+    padding-bottom: 39px;
+}
+
+.px-34 {
+    padding-right: 34px;
+    padding-left: 34px;
+}
+
+.get {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    color: #1E0E62;
+}
+
+.pt-100 {
+    padding-top: 100px;
+}
+
+td {
+    border: 2px solid #EBEAED !important;
+    padding-top: 10px;
+}
+
+th {
+    border: 2px solid #EBEAED !important;
+    background: #F5F5F6;
+    padding-top: 10px;
+}
+
+.py-67 {
+    padding-top: 67px;
+    padding-bottom: 67px;
+}
+
+.pt-30 {
+    padding-top: 30px;
+}
+
+.pr-23 {
+    padding-right: 23px !important;
+}
+
+.btn:hover {
+    background: #25DAC5 !important;
+    color: white !important;
+}
+
+.check:hover .check {
+    background: #1E0E62;
+}
+
+.pb-14 {
+
+    padding-bottom: 14px !important;
+}
+
+.box {
+    width: 20px;
+    height: 20px;
+    border: none;
+    background: #F5F5F6;
+    border-radius: 3px !important;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.pt-14 {
+    padding-top: 14px;
+}
+
+.box:hover {
+    background: #25DAC5 !important;
+
+}
+
+.pl-155 {
+    padding-left: 155px !important;
+}
+
+.pt-47 {
+    padding-top: 47px;
+}
+
+.pos-relative {
+    position: relative;
+}
+.pos-absolute1 {
+    position: absolute !important;
+    top: 42% !important;
+    left: 40%;
+
+}
+
+.pos-absolute2 {
+    position: absolute !important;
+    top: 42% !important;
+    left: 71%;
+
+}
+
+.pos-absolute3 {
+    position: absolute !important;
+    top: 42% !important;
+    left: 56%;
+
+}
